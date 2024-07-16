@@ -1,0 +1,79 @@
+*{
+    padding:0;
+    margin:0;
+}
+body{
+    background-image: url("Chitkara_University_pic.jpg");
+    background-size: cover;
+}
+#border{
+    background-color: red;
+    height:6px;
+}
+div img{
+    float:right;
+    margin-right:0px;
+}
+#customerheight{
+    background-color: white;
+    height:550px;
+    width:285px;
+    float:right;
+    margin-top:60px;
+    position:relative;
+    border: solid #cccccc 2px;
+    padding:20px;
+}
+#customerheight div{
+    margin:20px 35px 10px 15px;
+}
+#customerheight form label{
+    
+    font-family: Arial;
+
+}
+#customerheight form input{
+    width:220px;
+    height:22px;
+}
+input[type="checkbox" i]{
+    background-color: initial;
+    cursor: default;
+    appearance: auto;
+    box-sizing: border-box;
+    margin: 3px 3px 3px 4px;
+    padding: initial;
+    border: initial;
+}
+.text{
+    font-size: 12px;
+    font-family: Arial;
+}
+table{
+    border-spacing: 2px;
+}
+#btn{
+    background-color: red;
+    font-size: 1rem;
+    color:#cccccc;
+    padding:5px;
+    border-color: red;
+    width:200px;
+}
+.vergain{
+    font-size: 12px;
+    font-family: Arial;
+}
+.privacy{
+    font-size: 12px;
+    font-family: Arial;
+    color: #2e5b87;
+    text-decoration: underline;
+}
+strong{
+    font-weight: bold;
+}
+.strong{
+    
+    font-size: 12px;
+}
